@@ -1,10 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-  "./index.html",
-  "./src/**/*.{js,ts,jsx,tsx}",],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    screens: {
+      phone: { max: "1250px" },
+    },
+    extend: {
+      transitionProperty: {
+        height: "height",
+      },
+    },
   },
   plugins: [],
-}
+};

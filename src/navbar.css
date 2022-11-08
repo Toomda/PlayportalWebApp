@@ -1,0 +1,16 @@
+.menuList-enter {
+  transform: translateY(-300);
+  transition: transform 1000ms;
+}
+.menuList-enter-active {
+  transition: transform 1000ms;
+  transform: translateY(220);
+}
+.menuList-exit {
+  transition: transform 1000ms;
+  transform: translateY(0);
+}
+.menuList-exit-active {
+  transition: transform 300ms;
+  transform: translateY(100);
+}

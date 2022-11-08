@@ -1,5 +1,3 @@
-export function Events () {
-    return (
-        <h1>Events</h1>
-    )
+export function Events() {
+  return <h1>Events</h1>;
 }

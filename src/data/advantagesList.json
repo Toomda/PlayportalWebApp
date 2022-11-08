@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "Das Netzwerk",
+    "advantages": [
+      "Kostenfrei",
+      "Vertragsfrei",
+      "Keine Verpflichtungen",
+      "Kompetentes Team",
+      "Austausch von Streamern"
+    ]
+  },
+  {
+    "headline": "Organisationen",
+    "advantages": [
+      "Online & Offline Events",
+      "Marketing und Management",
+      "Planung von Turnieren",
+      "Planung von Projekten",
+      "Einrichtungshilfe"
+    ]
+  },
+  {
+    "headline": "Für deinen Stream",
+    "advantages": [
+      "Gamekeys",
+      "Gameserver",
+      "Sponsoren",
+      "Musiklizenzen",
+      "Impressum Nutzung"
+    ]
+  }
+]
